@@ -60,6 +60,10 @@ Contributions
 
 Contributions to enhance this dashboard are welcomed. Please initiate a discussion through an issue before submitting any major changes.
 
+# Report Link
+
+[EIC Dashboard Link](https://app.powerbi.com/links/tjpJ23Scvv?ctid=b52f8f62-cdb3-4700-831b-0f7f476f1b5a&pbi_source=linkShare)
+
 # Contact
 
 Should you have any questions or suggestions, feel free to reach out.
